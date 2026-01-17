@@ -46,5 +46,3 @@ Features
 - Student enrollment & teacher-subject assignment
 - Basic admin reports and activity log
 
--email : charuniedu@gmail.com
-
