@@ -1,10 +1,10 @@
-SmartOLevel Learning Management System
+Class Portal Learning Management System
 
-Online Learning Management System (LMS) built for O-Level students, teachers, and administrators.
+Class Portal Learning Management System (LMS) built for O-Level students, teachers, and administrators.
 
 Overview
 
-SmartOLevel LMS is a PHP-based web application that helps manage online learning for O-Level education. 
+Class Portal LMS is a PHP-based web application that helps manage online learning for O-Level education. 
 
 It supports:
 
