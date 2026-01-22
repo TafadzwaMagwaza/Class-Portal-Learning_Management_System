@@ -1,4 +1,4 @@
-Class Portal Learning Management System
+Class Portal-Learning Management System
 
 Class Portal Learning Management System (LMS) built for O-Level students, teachers, and administrators.
 
@@ -20,14 +20,12 @@ Technologies Used
 - phpMyAdmin (database management)
 
 Requirements
-
 - PHP 
 - MySQL / MariaDB
 - Web server (Apache)
 - phpMyAdmin (for easy database setup)
 
 Quick Installation
-
 1. Place all files in your web server directory (e.g., `htdocs/smartolevel`).
 
 2. Open phpMyAdmin → Create a new database named `olevel_lms`.
@@ -37,7 +35,6 @@ Quick Installation
 4. Edit `config.php` if needed (default: localhost, root, no password).
 
 Features
-
 - Role-based dashboards
 - File uploads (notes & assignment submissions)
 - YouTube video embedding
