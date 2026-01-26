@@ -3,17 +3,14 @@ Class Portal-Learning Management System
 Class Portal Learning Management System (LMS) built for O-Level students, teachers, and administrators.
 
 Overview
-
 Class Portal LMS is a PHP-based web application that helps manage online learning for O-Level education. 
 
 It supports:
-
 - Students: View notes, watch videos, submit assignments, take quizzes, and check grades.
 - Teachers: Upload notes & videos, create assignments & quizzes, grade work, and view results.
 - Admins: Manage users, subjects, teacher assignments, student enrollments, and monitor content.
 
 Technologies Used
-
 - PHP (native)
 - MySQL (database)
 - Tailwind CSS (styling)
